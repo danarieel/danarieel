@@ -6,5 +6,3 @@ Linux, Docker, Bash. Fintech/crypto background, SOC experience.
 Looking for: junior infrastructure / tech ops / L2 backline, remote.
 
 CV: [danarieel.github.io](https://danarieel.github.io)
-
-mail: qbwrkr@gmail.com
